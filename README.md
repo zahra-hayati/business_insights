@@ -137,8 +137,7 @@ Each business question was answered through EDA and visualization using **Pandas
 
 ## 📁 Project Structure
 
----
-
+```
 business-insights/
 ├── data/
 │ ├── customers.csv
@@ -154,6 +153,7 @@ business-insights/
 │ ├── plan_selection_by_age.png
 │ └── support_by_plan.png
 └── README.md
+```
 
 ---
 
