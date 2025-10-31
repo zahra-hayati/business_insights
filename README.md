@@ -137,6 +137,8 @@ Each business question was answered through EDA and visualization using **Pandas
 
 ## 📁 Project Structure
 
+---
+
 business-insights/
 ├── data/
 │ ├── customers.csv
