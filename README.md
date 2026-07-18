@@ -134,5 +134,5 @@ business-insights/
 **Author:** Zahra Hayati  
 **Project:** Rapid Scale Customer Sign-up Analysis — High-Impact MBR Report
 **Email:** zahrahyt.7@gmail.com  
-**LinkedIn:** [linkedin.com/in/zahra-hayati-data-science](https://www.linkedin.com/in/zahra-hayati-data-science)  
+**LinkedIn:** [linkedin.com/in/zahra-hayati-data-science](https://www.linkedin.com/in/zahra-hayati-full-stack)  
 **GitHub:** [github.com/zahra-hayati](https://github.com/zahra-hayati)
